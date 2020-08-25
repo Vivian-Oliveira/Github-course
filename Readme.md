@@ -26,3 +26,4 @@ GIT usa um modelo de dados que ajuda a garantir a integridade criptográfica de 
 Outra característica presente no GIT é sua área de teste ou índice. Na área de preparação, os desenvolvedores podem formatar commits e receber feedback ​​antes de aplicá-los.
 O GIT é consideravelmente simples de usar. Para começar, você pode criar um repositório ou conferir um já existente. Após a instalação, um simples git-init irá deixar tudo pronto. Da mesma maneira, o comando git clone pode criar uma cópia de um repositório local para um usuário.
 
+fonte: https://www.hostinger.pt/tutoriais/tutorial-do-git-basics-introducao/
